@@ -1,0 +1,23 @@
+{
+  "name": "hapi-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.3",
+    "boom": "^2.8.0",
+    "good": "^6.2.0",
+    "good-file": "^5.0.1",
+    "handlebars": "^3.0.3",
+    "hapi": "^8.6.1",
+    "hapi-auth-cookie": "^3.0.1",
+    "joi": "^6.5.0",
+    "mandrill-api": "^1.0.45",
+    "uuid": "^2.0.1"
+  }
+}
